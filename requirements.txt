@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+chromadb
+pymongo
+langchain
+scikit-learn
+python-dotenv
